@@ -1,6 +1,6 @@
-wsgzao.github.io
+gaolonglong.github.io
 ================
 
-HelloDog是一个基于Github和Hexo的静态Blog，希望用简单而清晰的写作方式Markdown分享自己的心得体会。
+gaolonglong.github.io是一个使用Github和Hexo构建的静态Blog，希望用简单而清晰的写作方式Markdown来记录工作和分享生活。
 
-http://wsgzao.github.io/about/
+http://gaolonglong.github.io/about/
